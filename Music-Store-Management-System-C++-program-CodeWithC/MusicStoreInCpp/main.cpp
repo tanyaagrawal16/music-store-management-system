@@ -1,4 +1,4 @@
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++
 
 #include<iostream>
 #include<cstdio>
@@ -135,7 +135,7 @@ int main()
     }
     return 0;
 }
-// Music Store Manangement System in C++ Design and Developed by Code With C.com
+// Music Store Manangement System in C++
 void ShowAllItems()
 {
     system("cls");
@@ -173,7 +173,7 @@ void ShowAllItems()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++
 void AddNewItemInDatabase()
 {
     // Initial Load
@@ -246,7 +246,7 @@ void AddNewItemInDatabase()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++ 
 void ItemInStock()
 {
     system("cls");
@@ -552,7 +552,7 @@ void EditItem()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++ 
 void RemoveItem()
 {
     system("cls");
@@ -657,7 +657,7 @@ void RemoveItem()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++
 void CreateOrder()
 {
     system("cls");
@@ -882,7 +882,7 @@ void CreateOrder()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++ 
 void SoldItems()
 {
 
