@@ -45,7 +45,7 @@ public:
             cout << "Failed To Connect!" << mysql_errno(conn) << endl;
     }
 };
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+// Music Store Manangement System in C++ 
 void AddNewItemInDatabase();
 void ShowAllItems();
 void ItemInStock();
